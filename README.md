@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harvi04
 - 👀 I’m interested  in Full-stack development and Database.
 - 🌱 I’m currently pursuing BCA and Full-Stack Development.
-- 💬 Ask me about html ,css ,php, c, c++, js, React-js, Node-js, MySQL.
+- 💬 Ask me about html ,css ,bootstrap ,php, c, js, React-js, Node-js, MySQL.
 - 💞️ I’m looking to collaborate  on any kind of technical projects.
 - 📫 How to reach me harvikorat05@gmail.com
 
